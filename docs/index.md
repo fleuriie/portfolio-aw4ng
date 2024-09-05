@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Annie's Vitepress Static Site"
+  text: "6.1040"
+  tagline: "Software Design"
   actions:
     - theme: brand
       text: Template Repository
