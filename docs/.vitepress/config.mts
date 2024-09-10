@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Annie's Vitepress Static Site",
   description: "6.1040 Fall 2024",
-  // base: "/portfolio-aw4ng/",
+  base: "/portfolio-aw4ng/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
