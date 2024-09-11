@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Annie's Vitepress Static Site"
-  text: "6.1040"
+  name: "Annie's Portfolio"
+  text: "6.1040 Fall '24"
   tagline: "Software Design"
   actions:
     - theme: brand
@@ -20,6 +20,7 @@ features:
     link: /blogs
   - title: Assignments
     details: All of your assignments will be posted on your portfolio.
+    link: /assignments
   - title: About Me
     details: You'll implement a small bio about yourself on here!
 ---
