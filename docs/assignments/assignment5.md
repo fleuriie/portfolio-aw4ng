@@ -9,6 +9,8 @@ layout: doc
 ## Frontend Code Repository
 [Link to frontend code](https://github.com/fleuriie/pocanet-frontend)
 
+Note - the concepts I currently have implemented are Authenticating, Sessioning, and I started work on Messaging but ran into a problem where I had to restructure the way messages were stored into my database, so I didn't quite manage to implement full functionality.
+
 ## Deployed Frontend
 [Link to deployed frontend](https://pocanet-frontend.vercel.app/)
 
