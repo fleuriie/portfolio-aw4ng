@@ -9,7 +9,8 @@ layout: doc
 ## Frontend Code Repository
 [Link to frontend code](https://github.com/fleuriie/pocanet-frontend)
 
-Note - the concepts I currently have implemented are Authenticating, Sessioning, and I started work on Messaging but ran into a problem where I had to restructure the way messages were stored into my database, so I didn't quite manage to implement full functionality.
+Note - I used ChatGPT primarily for styling to give suggestions as to how I could improve the design of my web app (for example, it suggested that I add shading to different parts of each page
+and I asked it to give me some code to do that, then adjusted it).
 
 ## Deployed Frontend
 [Link to deployed frontend](https://pocanet-frontend.vercel.app/)
@@ -56,3 +57,6 @@ Note - the concepts I currently have implemented are Authenticating, Sessioning,
 - One thing that's missing from my app is a help or a FAQ page, which leaves users who are confused about where to find certain pages with no recourse.
 - It's also missing the option to search the site for a specific page, but this is less important due to the limited number of pages on the app and allowing users to search for a specific page might compromise privacy and security of the site if I did not take the proper precautions to only make certain pages accessible to them.
 :::
+
+## Visual Design Study
+Link to slides: [here](https://docs.google.com/presentation/d/11SwHrfRdWYwsgyhOVsyVjJ9qNVdAcEPQBayKhvcrksI/edit?usp=sharing)
