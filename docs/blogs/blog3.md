@@ -4,6 +4,7 @@ layout: doc
 ---
 
 # Lecture 15 - Critique of Ashi Kamra's Blog
+Original blog: [here](https://ashi-kamra.github.io/portfolio-akamra/blogs/blog1.html)
 
 I think Ashi brought up a really important point, and one I've been thinking about a lot myself: how do we determine *if* we should do something, rather than *should* we do something? A lot of tech development has been focused around the guiding principle of "move fast and break things." As discussed in lecture, sometimes this means that developers can lose focus on what the purpose of their work is in the first place (that is, they focus more on the speed rather than the direction). Ashi points out that this philosophy fails to question whether more is always better -- is more technology always better? Is technological development always good?
 
